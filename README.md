@@ -27,25 +27,16 @@ An autoencoder is a type of NN which is used to learn efficient representations 
 
 A Generative Adversarial Network (GAN) consists of two neural networks: a generator and a discrimator. In this project, the task of the generator is to create convincing fake images of pokemon while the discriminator attempts to distinguish between the real and fake pokemon images. The idea behind this is that the generator will eventually learn to create very convincing pokemon images that look like they could be real pokemon. In this project, I was unsuccessful at building a GAN to do this, but I learned a lot about GANs along the way.
 
+### Dataset Location
+The Raw Data can be found [here](https://www.kaggle.com/kvpratama/pokemon-images-dataset)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [Notebook](https://github.com/lukemonington/pokemon_images_gan/blob/main/Pokemon%20Autoencoder.ipynb)
 
 
-## Contributing DSWG Members
+## Contributing Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+**[Luke Monington](https://github.com/lukemonington)**
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* I can be reached at lukemonington@aol.com.
